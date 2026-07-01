@@ -1,4 +1,4 @@
-package ifelse;
+package basicsprograms;
 import java.util.Scanner;
 public class sidesofatriangle {
     public static void main(String[] args) {
